@@ -12,3 +12,7 @@ laravel 10.44.0
 node.js v18.19.0
 npm 10.2.4
 初回npmの起動が必要　実行コマンド：npm　run dev
+
+##アカウント
+test@test
+pass:12345678
